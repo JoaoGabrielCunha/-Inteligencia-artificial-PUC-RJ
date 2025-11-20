@@ -1,0 +1,18 @@
+Melhor solução encontrada (personagens escolhidos para cada evento):
+Evento Wyzim: Personagens escolhidos: ['Geralt']
+Evento Stygga: Personagens escolhidos: ['Ciri']
+Evento Djinn: Personagens escolhidos: ['Ciri']
+Evento Dragão Dourado: Personagens escolhidos: ['Dandelion', 'Yennifer']
+Evento Quimera: Personagens escolhidos: ['Vesemir', 'Triss']
+Evento Montanhas Amell: Personagens escolhidos: ['Triss', 'Vesemir']
+Evento Velen: Personagens escolhidos: ['Vesemir', 'Triss']
+Evento Novigrad: Personagens escolhidos: ['Geralt', 'Dandelion']
+Evento Toussaint: Personagens escolhidos: ['Yennifer', 'Vesemir']
+Evento Skellige Kraken: Personagens escolhidos: ['Yennifer', 'Vesemir']
+Evento Primeira Aparição Caçada: Personagens escolhidos: ['Ciri', 'Dandelion']
+Evento Perseguição Ciri: Personagens escolhidos: ['Ciri', 'Dandelion']
+Evento Kaer Morhen: Personagens escolhidos: ['Triss', 'Geralt']
+Evento Skellige Templo: Personagens escolhidos: ['Yennifer', 'Geralt']
+Evento Caranthir Mar de Gelo: Personagens escolhidos: ['Geralt', 'Yennifer']
+Evento Eredin: Personagens escolhidos: ['Ciri', 'Triss']
+Tempo total mínimo: 637.5168396418396 minutos

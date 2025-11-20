@@ -1,0 +1,5 @@
+arquivo-tampop-geracoes-taxamutacao
+melhor_solucao-1500-20000-0.1
+melhor_solucao1-1500-20000-0.2
+melhor_solucao2-30000-25000-0.1
+melhor_solucao3-1500-20000-0.3
